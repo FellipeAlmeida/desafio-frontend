@@ -1,0 +1,93 @@
+body {
+    background-color: #141414;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+.caixa {
+    display: flex;
+    justify-content: center;
+    background-color: #1f1f1f;
+    border-radius: 10px;
+    
+}
+
+.foto {
+    width: 70px;
+    border-radius: 100px;
+}
+
+.localizacao {
+    color: greenyellow;
+    padding-top: 5px;
+}
+
+.ocupacao {
+    padding-top: 30px;
+}
+
+.nome {
+    padding-top: 20px;
+    font-size: 25px;
+}
+
+.elementos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.botoes {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.github {
+    background-color: #333333;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    width: 210px;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: small;
+}
+
+.frontend {
+    background-color: #333333;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    width: 210px;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: small;
+}
+
+.linkedin {
+    background-color: #333333;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    width: 210px;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: small;
+}
+
+.instagram {
+    background-color: #333333;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    width: 210px;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: small;
+
+}
